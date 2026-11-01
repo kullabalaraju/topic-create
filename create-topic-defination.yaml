@@ -1,0 +1,5 @@
+topics:
+  - name: test02
+    partitions: 10
+    replicationFactor: 1
+
